@@ -1,1 +1,1 @@
-# youtube-daily-upload
+# daily-upload
